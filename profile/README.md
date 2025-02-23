@@ -3,9 +3,10 @@
 ## Description 
 
 Welcome to Tenjinsama organization, regrouping projects about improving learning and training in IT. <br>
-It includes tools like task management, time tracker, terminal tools in order to create and work on IT courses.
+It includes tools like task management, time tracker, terminal tools in order to create and work on IT courses (theorical) and labs (pratical)
 
 Look at the drawio schema for a better description of this project : <br>
+<br>
 ![tenjinsama_description_schema](./images/tenjinsama_description.png)
 
 ### Projects components :
