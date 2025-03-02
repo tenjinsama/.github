@@ -31,6 +31,10 @@ Look at the drawio schema for a better description of this project and it's comp
 
 ## Usage 
 
+> Note : You can use any components as you will, there is no requirements between them (you can use Doctum without Agoge). <br> 
+It's a personnal preferences to separate theorical learning/Course (doctum) from practical learning/Labs (agoge) but you can only use one for both usage. <br> 
+The procedure below assume that you would install and configure all components, skip parts that you don't need.
+
 ### Open project configuration 
 
 <details> 
@@ -44,7 +48,7 @@ Look at the drawio schema for a better description of this project and it's comp
 ### Doctum configuration 
 
 <details> 
-  <summary>Create your *doctum_content* git repository </summary>
+  <summary>Create your doctum_content git repository </summary>
 
 - create a new git repository for your doctum content, the name doesn't matter but it need to contain a main folder named `content`
 - See repository example at [doctum_content](https://github.com/tenjinsama/doctum_content) 
@@ -52,14 +56,14 @@ Look at the drawio schema for a better description of this project and it's comp
 </details>
 
 <details> 
-  <summary>Install *srv-doctum* </summary>
+  <summary>Install srv-doctum </summary>
 
 @TODO
 
 </details>
     
 <details> 
-  <summary>Configure openproject and *srv-doctum* integration (token, address, ...)  </summary>
+  <summary>Configure openproject and srv-doctum integration (token, address, ...)  </summary>
 
 @TODO
 
@@ -68,7 +72,7 @@ Look at the drawio schema for a better description of this project and it's comp
 ### Agoge configuration 
 
 <details> 
-  <summary>Create your *agoge_content* git repository </summary>
+  <summary>Create your agoge_content git repository </summary>
 
 - create a new git repository for your agoge content, the name doesn't matter but it need to contain a main folder named `content`
 - See repository example at [agoge_content](https://github.com/tenjinsama/agoge_content)
@@ -76,14 +80,14 @@ Look at the drawio schema for a better description of this project and it's comp
 </details>
 
 <details> 
-  <summary>Install *srv-agoge* </summary>
+  <summary>Install srv-agoge </summary>
 
 @TODO
 
 </details>
 
 <details> 
-  <summary>Configure openproject and *srv-agoge* integration (token, address, ...) </summary>
+  <summary>Configure openproject and srv-agoge integration (token, address, ...) </summary>
 
 @TODO
 
