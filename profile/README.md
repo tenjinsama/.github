@@ -1,6 +1,6 @@
 # ![tenjinsama_description_schema](./images/logos/favicon-32x32.png) Tenjinsama 
 
-## Description 
+## Description
 
 Welcome to Tenjinsama organization, regrouping projects about improving learning and training in IT. <br>
 It includes tools like task management, time tracker, terminal tools in order to create and work on IT courses (theorical) and labs (pratical).
@@ -29,15 +29,15 @@ Look at the drawio schema for a better description of this project and it's comp
 - **Agone** :
     - Work in progress ...
 
-## Usage 
+## Usage
 
-> Note : You can use any components as you will, there is no requirements between them (you can use Doctum without Agoge). <br> 
-It's a personnal preferences to separate theorical learning/Course (doctum) from practical learning/Labs (agoge) but you can also use one for both usage. <br> 
+> Note : You can use any components as you will, there is no requirements between them (you can use Doctum without Agoge). <br>
+It's a personnal preferences to separate theorical learning/Course (doctum) from practical learning/Labs (agoge) but you can also use one for both usage. <br>
 The procedure below assume that you would install and configure all components, skip parts that you don't need.
 
-### Open project configuration 
+### Open project configuration
 
-<details> 
+<details>
   <summary>Configure Openproject with 2 new projects </summary>
 
 - Doctum
@@ -45,33 +45,33 @@ The procedure below assume that you would install and configure all components, 
 
 </details>
 
-### Doctum configuration 
+### Doctum configuration
 
-<details> 
+<details>
   <summary>Create your doctum_content git repository </summary>
 
 - create a new git repository for your doctum content, the name doesn't matter but it need to contain a main folder named `content`
-- See repository example at [doctum_content](https://github.com/tenjinsama/doctum_content) 
+- See repository example at [doctum_content](https://github.com/tenjinsama/doctum_content)
 
 </details>
 
-<details> 
+<details>
   <summary>Install srv-doctum </summary>
 
 @TODO
 
 </details>
-    
-<details> 
+
+<details>
   <summary>Configure openproject and srv-doctum integration (token, address, ...)  </summary>
 
 @TODO
 
 </details>
 
-### Agoge configuration 
+### Agoge configuration
 
-<details> 
+<details>
   <summary>Create your agoge_content git repository </summary>
 
 - create a new git repository for your agoge content, the name doesn't matter but it need to contain a main folder named `content`
@@ -79,23 +79,23 @@ The procedure below assume that you would install and configure all components, 
 
 </details>
 
-<details> 
+<details>
   <summary>Install srv-agoge </summary>
 
 @TODO
 
 </details>
 
-<details> 
+<details>
   <summary>Configure openproject and srv-agoge integration (token, address, ...) </summary>
 
 @TODO
 
 </details>
 
-### Superproducivity configuration 
+### Superproducivity configuration
 
-<details> 
+<details>
   <summary>Use Superproductivity to manage time and status tracking </summary>
 
 - Installation of Superproductivity is out of this project scope but find all data at [super-productivity project homepage](https://github.com/johannesjo/super-productivity)
