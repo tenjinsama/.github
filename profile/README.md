@@ -32,7 +32,7 @@ Look at the drawio schema for a better description of this project and it's comp
 ## Usage 
 
 > Note : You can use any components as you will, there is no requirements between them (you can use Doctum without Agoge). <br> 
-It's a personnal preferences to separate theorical learning/Course (doctum) from practical learning/Labs (agoge) but you can only use one for both usage. <br> 
+It's a personnal preferences to separate theorical learning/Course (doctum) from practical learning/Labs (agoge) but you can also use one for both usage. <br> 
 The procedure below assume that you would install and configure all components, skip parts that you don't need.
 
 ### Open project configuration 
